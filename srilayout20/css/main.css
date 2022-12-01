@@ -1,0 +1,320 @@
+.wrapper
+ {
+ display:flex;
+  border:2px solid;
+  background-color:silver;
+  height:1000px;
+   flex-direction:column;
+ }
+  .header
+ {
+ display:flex;
+  background-color:navy;
+  height:100px;
+   padding:10px;
+    width:98.4%;
+justify-content:row;
+ }
+ 
+  .box
+ {
+  background-color:green;
+   width:30%;
+    margin:20px;
+ }
+  .item
+  {
+  width:20%;
+   background-color:palegreen;
+display:flex;
+ text-align:center;
+  align-items:center;
+   justify-content:center
+   
+  }
+   
+  .itema
+  {
+  width:5%;
+   background-color:palevioletred;
+margin-left:120px;
+display:flex;
+ text-align:center;
+  align-items:center;
+   justify-content:center
+  }
+   
+  .itemb
+  {
+  width:5%;
+   background-color:orchid;
+margin-left:90px;
+display:flex;
+ text-align:center;
+  align-items:center;
+   justify-content:center
+  }
+   
+  .itemc
+  {
+  width:5%;
+   background-color:paleturquoise;
+margin-left:90px;
+  display:flex;
+ text-align:center;
+  align-items:center;
+   justify-content:center;
+
+  }
+   
+  .itemd
+  {
+  width:20%;
+   background-color:palegreen;
+margin-left:200px;
+  display:flex;
+ text-align:center;
+  align-items:center;
+   justify-content:center;
+
+  }
+  .main
+  {
+  background-color:red;
+  height:100px;
+   padding:10px;
+    width:94%;
+margin-top:30px;
+ margin-left:30px;
+  display:flex;
+ text-align:center;
+  align-items:center;
+   justify-content:center;
+
+ }
+  .sub
+  {
+  display:flex;
+  background-color:silver;
+  height:100px;
+   padding:10px;
+    width:97%;
+ margin-top:30px;
+  margin-left:10px;
+   
+ }
+ 
+  .suba
+  {
+  display:flex;
+  width:55%;
+   background-color:fuchsia;
+margin:10px;
+
+
+  }
+.a
+{
+margin-right:100px;
+background-color:wheat;
+  display:flex;
+ text-align:center;
+  align-items:center;
+   justify-content:center;
+
+}
+ .b
+  {
+  display:flex;
+ text-align:center;
+  align-items:center;
+   justify-content:center;
+
+  }
+   .subb
+ {
+ display:flex;
+  background-color:silver;
+  height:150px;
+   padding:10px;
+    width:97%;
+ margin-top:30px;
+  margin-left:6px;
+ }
+ 
+  .subc
+  {
+  width:30%;
+   background-color:maroon;
+margin:20px;
+margin-left:40px;
+  }
+   .c
+   {
+   margin-left:12px;
+background-color:blue;  
+  display:flex;
+ text-align:center;
+  align-items:center;
+   justify-content:center;
+
+}
+ 
+   .d {
+   background-color:plum;
+display:flex;
+ text-align:center;
+  align-items:center;
+   justify-content:center;
+
+   }
+   .e
+   {
+ 
+   background-color:teal;
+display:flex;
+ text-align:center;
+  align-items:center;
+   justify-content:center;
+color:blue;
+   }
+ .f
+ {
+  display:flex;
+ text-align:center;
+  align-items:center;
+   justify-content:center;
+color:pink;
+
+ }
+  .eque
+  {
+  display:flex;
+  background-color:silver;
+  height:100px;
+   padding:10px;
+    width:97%;
+ margin-top:30px;
+  margin-left:10px;
+ }
+ 
+ .sum
+  {
+  display:flex;
+  width:55%;
+   background-color:magenta;
+margin:10px;
+display:flex;
+ text-align:center;
+  align-items:center;
+   justify-content:center;
+
+
+  }
+  .g
+  {
+ 
+   background-color:blue;
+display:flex;
+ text-align:center;
+  align-items:center;
+   justify-content:center;
+
+  }
+  .logo
+  {
+  display:flex;
+  background-color:maroon;
+  height:100px;
+   padding:10px;
+    width:93.5%;
+ margin-top:30px;
+ margin-left:31px;
+ }
+ 
+ .spr
+  {
+  display:flex;
+  width:20%;
+   background-color:dimgrey;
+margin:20px;
+
+
+  }
+   .h{
+   
+   background-color:darkslategray;
+display:flex;
+ text-align:center;
+  align-items:center;
+   justify-content:center;
+color:red;
+
+   }
+   
+   .i{
+   
+   background-color:thistle;
+display:flex;
+ text-align:center;
+  align-items:center;
+   justify-content:center;
+
+   }
+   
+   .j{
+   
+   background-color:mediumpurple;
+display:flex;
+ text-align:center;
+  align-items:center;
+   justify-content:center;
+
+   }
+   
+   .k{
+   
+   background-color:silver;
+display:flex;
+ text-align:center;
+  align-items:center;
+   justify-content:center;
+
+   }
+   
+   .l{
+   
+   background-color:plum;
+display:flex;
+ text-align:center;
+  align-items:center;
+   justify-content:center;
+
+   }
+   .m
+    {
+display:flex;
+ text-align:center;
+  align-items:center;
+   justify-content:center;
+color:pink;
+}
+ 
+   
+  .nice
+  {
+  background-color:seagreen;
+  height:100px;
+   padding:10px;
+    width:98.4%;
+ margin-top:30px;
+  display:flex;
+ text-align:center;
+  align-items:center;
+   justify-content:center;
+
+ }
+
+ 
+ 
+   
